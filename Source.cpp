@@ -8,7 +8,7 @@
 #include <ctime>
 using namespace std;
 using namespace this_thread;
-using namespace chrono;
+using namespace chrono; // You have to switch your language to English to play this game
 
 const bool T = true;
 const bool F = false;
